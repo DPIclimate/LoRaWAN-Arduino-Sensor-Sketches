@@ -1,4 +1,4 @@
-# LoRaWAN-Sensor-Arduino-Sketches
+# LoRaWAN-Arduino-Sensor-Sketches
 A repository containing various Arduino sketches made by the Digital Ag Team to read different sensors for smart farming.
 
 Sensors Supported
