@@ -21,7 +21,7 @@ Adafruit Feather M0:
 
 Libraries:
 These sketches use the following libraries;
-	- RTC - Real Time Clock
-	- LMiC - Lora Mac in C (by Mathiaskoojman IBM)
-	- Math
-	- SDI12 Library
+- RTC - Real Time Clock
+- LMiC - Lora Mac in C (by Mathiaskoojman IBM)
+- Math
+- SDI12 Library
