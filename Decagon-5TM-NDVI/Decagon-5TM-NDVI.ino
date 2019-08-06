@@ -20,7 +20,7 @@
  *   [17] battery voltage
  * 
  *   The code also monitors the battery voltage.
- *  
+ *   
  *   The interval for reading the data from the sensor is set at 1 hour
  * 
  * Author:  Allen Benter allen.benter@dpi.nsw.gov.au
