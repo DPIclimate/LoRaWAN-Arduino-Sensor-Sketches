@@ -5,6 +5,7 @@ Sensors Supported
   1. Decagon 5TM Soil Moisture Sensor
   2. Decagon NDVI Normalized Difference Vegetation Index Sensor
   3. Meter Atmos 41 Automatic Weather Station
+  4. Meter Teros 21 Soil Water Potential Sensor
   
 Notes: 
 1. Sketches require the user to update the LoRa-otaa.h file with the relevant The Things Network otaa (over-the-air-activation) EUI keys.
@@ -24,4 +25,4 @@ These sketches use the following libraries;
 - RTC - Real Time Clock
 - LMiC - Lora Mac in C (by Mathiaskoojman IBM)
 - Math
-- SDI12 Library
+- SDI12 - Serial Digital Interface

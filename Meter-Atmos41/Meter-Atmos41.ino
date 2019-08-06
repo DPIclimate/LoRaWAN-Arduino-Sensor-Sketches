@@ -2,7 +2,7 @@
  *  
  * Hardware: 
  *   Adafruit Feather M0 LoRa915MHz
- *   Meter ATMOS-41 Weather Station.
+ *   Meter ATMOS-41 Automatic Weather Station.
  *  
  * Description:
  *   This code reads weather data and transmits on LoRaWAN.
