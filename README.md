@@ -20,8 +20,8 @@ Adafruit Feather M0:
 4. Ensure you select the device in the Tools -> Port menu before selecting upload.
 
 Libraries:
-	These sketches use the following libraries;
-		- RTC - Real Time Clock
-		- LMiC - Lora Mac in C (by Mathiaskoojman IBM)
-		- Math
-		- SDI12 Library
+These sketches use the following libraries;
+	- RTC - Real Time Clock
+	- LMiC - Lora Mac in C (by Mathiaskoojman IBM)
+	- Math
+	- SDI12 Library
