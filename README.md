@@ -1,5 +1,5 @@
 # LoRaWAN-Arduino-Sensor-Sketches
-A repository containing various Arduino sketches made by the Digital Ag Team to read different sensors for smart farming.
+A repository containing various Arduino sketches made by the Digital Ag Team to read different sensors for smart farming and transmit the data over LoRaWAN using Adafruit Feather M0 Microcontrollers.
 
 Sensors Supported
   1. Decagon 5TM Soil Moisture Sensor
