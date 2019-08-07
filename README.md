@@ -2,13 +2,13 @@
 A repository containing various Arduino sketches made by the Digital Ag Team to read different sensors for smart farming and transmit the data over LoRaWAN using Adafruit Feather M0 Microcontrollers.
 
 Sensors Supported
-  1. Decagon 5TM Soil Moisture Sensor
+1. Decagon 5TM Soil Moisture Sensor
 	- http://publications.metergroup.com/Manuals/20424_5TM_Manual_Web.pdf
-  2. Edaphic NDVI Normalized Difference Vegetation Index Sensor
+2. Edaphic NDVI Normalized Difference Vegetation Index Sensor
 	- https://www.edaphic.com.au/products/light/ndvi-pri-sensors/
-  3. Meter Atmos 41 Automatic Weather Station
+3. Meter Atmos 41 Automatic Weather Station
 	- https://www.metergroup.com/environment/products/atmos-41-weather-station/
-  4. Meter Teros 21 Soil Water Potential Sensor
+4. Meter Teros 21 Soil Water Potential Sensor
 	- https://www.metergroup.com/environment/products/teros-21/
   
 Notes: 
