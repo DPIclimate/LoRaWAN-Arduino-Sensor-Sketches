@@ -3,9 +3,13 @@ A repository containing various Arduino sketches made by the Digital Ag Team to 
 
 Sensors Supported
   1. Decagon 5TM Soil Moisture Sensor
-  2. Decagon NDVI Normalized Difference Vegetation Index Sensor
+	- http://publications.metergroup.com/Manuals/20424_5TM_Manual_Web.pdf
+  2. Edaphic NDVI Normalized Difference Vegetation Index Sensor
+	- https://www.edaphic.com.au/products/light/ndvi-pri-sensors/
   3. Meter Atmos 41 Automatic Weather Station
+	- https://www.metergroup.com/environment/products/atmos-41-weather-station/
   4. Meter Teros 21 Soil Water Potential Sensor
+	- https://www.metergroup.com/environment/products/teros-21/
   
 Notes: 
 1. Sketches require the user to update the LoRa-otaa.h file with the relevant The Things Network otaa (over-the-air-activation) EUI keys.
