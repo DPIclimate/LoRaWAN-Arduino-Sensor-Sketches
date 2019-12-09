@@ -10,6 +10,8 @@ Sensors Supported
 	- https://www.metergroup.com/environment/products/atmos-41-weather-station/
 4. Meter Teros 21 Soil Water Potential Sensor
 	- https://www.metergroup.com/environment/products/teros-21/
+5. Adafruit Ultimate GPS Module
+	- https://learn.adafruit.com/adafruit-ultimate-gps
   
 Notes: 
 1. Sketches require the user to update the LoRa-otaa.h file with the relevant The Things Network otaa (over-the-air-activation) EUI keys.
@@ -30,3 +32,4 @@ These sketches use the following libraries;
 - LMiC - Lora Mac in C (by Mathiaskoojman IBM)
 - Math
 - SDI12 - Serial Digital Interface
+- Adafruit GPS - Adafruit GPS library for Adafruit Ultimate GPS
