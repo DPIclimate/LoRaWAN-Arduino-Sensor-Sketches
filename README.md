@@ -27,9 +27,14 @@ Adafruit Feather M0:
 4. Ensure you select the device in the Tools -> Port menu before selecting upload.
 
 Libraries:
-These sketches use the following libraries;
+These sketches use the following libraries (which are included in the libraries folder);
 - RTC - Real Time Clock
-- LMiC - Lora Mac in C (by Mathiaskoojman IBM)
+- LMiC - Lora Mac in C (by Mathiaskoojman IBM) Configured to AS-923 for Australia
 - Math
-- SDI12 - Serial Digital Interface
+- SDI-12 - Arduino Serial Digital Interface
+- Cayenne LPP (Low Powered Packet) for transmitting data to the Cayenne platform
+- ArduinoJson - JSON library for Arduino and embedded C++
+- Adafruit Unified Sensor
+- Adafruit ADT7410 Temperature Sensor
+- Adafruit ADXL343 Triple Axis Accelerometer
 - Adafruit GPS - Adafruit GPS library for Adafruit Ultimate GPS
